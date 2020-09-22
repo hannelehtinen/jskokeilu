@@ -27,3 +27,4 @@ class OsakeKurssiGeneraattori {
 }
 
 // muutostesti
+// gittimuutos testi
