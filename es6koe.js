@@ -25,3 +25,5 @@ class OsakeKurssiGeneraattori {
   const generator = new OsakeKurssiGeneraattori('Solteq');
   generator.generoi();
 }
+
+// muutostesti
